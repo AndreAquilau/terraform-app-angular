@@ -1,5 +1,25 @@
 # TerraformAppAngular
 
+## Install Packages
+
+#### Components Core
+
+```sh
+npm install primeng
+```
+
+#### Libary Styles
+
+```sh
+npm i primeflex
+```
+
+#### Libary Icons
+
+```sh
+npm install primeicons
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
